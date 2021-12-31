@@ -19,6 +19,6 @@ I like reading book, running and sleeping.
 > 
 > *Could I chmod 644 you?*
 
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=tuandn8&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=ebebeb&count_private=true' width='50%'>
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=tuandn8&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=ebebeb&count_private=true' width='40%'>
 
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tuandn8&langs_count=10&theme=tokyonight&layout=compact' width='32%'>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=tuandn8&langs_count=10&theme=tokyonight&layout=compact' width='40%'>
